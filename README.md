@@ -4,6 +4,13 @@ Developed as part of [The Odin Project curriculum](https://www.theodinproject.co
 
 ## Learning Outcomes
 
+- **Update**
+
+  - **Express**
+    - Installed and used the Express web application framework to rewrite the routing and serving logic using express's .get() and .sendFile() methods.
+    - Gained a fundamental understanding of what express is, how it's used, and why it's powerful.
+  - **ES6 Modules**: Updated the application to use ES6 modules in favor of the old require method. Used import.meta.dirname to replace the common js variable \_\_dirname.
+
 - **Node Basics**
   - **Understanding Node.js**
     - Gained a deeper understanding of what node is and how it differs from client-side JavaScript.
