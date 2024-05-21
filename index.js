@@ -3,7 +3,6 @@ const http = require('http');
 
 const server = http.createServer((req, res) => {
   let path = './';
-  console.log(req.url);
   switch (req.url) {
     case '/': {
       path += 'index.html';
